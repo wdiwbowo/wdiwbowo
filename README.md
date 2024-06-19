@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am Widi Wibowo, a passionate student who loves Futsal. Here you'll find my projects, contributions, and repositories. 
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen)
+![Profile Views](https://github.com/widisayangmamah)
 
 ## About Me
 
