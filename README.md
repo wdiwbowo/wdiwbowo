@@ -1,6 +1,6 @@
 # Hi 👋,I'm Widi Wibowo
 
-Welcome to my GitHub profile! I am [Your Name], a passionate [Your Profession] who loves [Your Hobbies/Interests]. Here you'll find my projects, contributions, and repositories. 
+Welcome to my GitHub profile! I am Widi Wibowo, a passionate student who loves [Your Hobbies/Interests]. Here you'll find my projects, contributions, and repositories. 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen)
 
