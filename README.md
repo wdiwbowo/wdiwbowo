@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I am Widi Wibowo, a passionate student who loves Futsal. Here you'll find my projects, contributions, and repositories. 
 
-![Profile Views](https://github.com/widisayangmamah)
-
 ## About Me
 
 - 🔭 I’m currently working on **[Current Project]**
